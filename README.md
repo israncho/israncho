@@ -1,16 +1,16 @@
-### Hi there 👋
+# Greetings! I'm Jesus Israel
 
-<!--
-**israncho/israncho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated Computer Science student. With a keen interest in
+computational complexity and algorithms, I enjoy designing elegant solutions
+to challenging problems.
 
-Here are some ideas to get you started:
+## Educational Journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently pursuing a Bachelor's degree in Computer Science at UNAM
+
+
+## Technical Proficiency
+
+- Coding: python, java, haskell, c
+- tools: linux, git&github, gcp, docker
+
